@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "63db8d8beb1bb3f81dc979f8",
+    "price": "$1,415.98",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "name": "Clayton Schroeder",
+    "gender": "male"
+  },
+  {
+    "_id": "63db8d8bd727c9023087ee07",
+    "price": "$3,163.56",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "name": "Graciela Dillon",
+    "gender": "female"
+  },
+  {
+    "_id": "63db8d8b19e0cd4ab9e144c0",
+    "price": "$1,916.13",
+    "picture": "http://placehold.it/32x32",
+    "age": 31,
+    "name": "Bright Stein",
+    "gender": "male"
+  },
+  {
+    "_id": "63db8d8b3536d7a9857d3eec",
+    "price": "$3,882.55",
+    "picture": "http://placehold.it/32x32",
+    "age": 27,
+    "name": "Valarie Spencer",
+    "gender": "female"
+  },
+  {
+    "_id": "63db8d8b85a38796d812932e",
+    "price": "$2,985.82",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "name": "Latonya Guerra",
+    "gender": "female"
+  }
+]
